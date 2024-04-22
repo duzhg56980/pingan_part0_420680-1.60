@@ -1,0 +1,6 @@
+import org.bouncycastle.asn1.pkcs.KeyDerivationFunc;
+public class FunctionUse3004 {
+public void funcUse() {
+KeyDerivationFunc keyderivationfunc = new KeyDerivationFunc();
+}
+}

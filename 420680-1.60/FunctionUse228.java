@@ -1,0 +1,7 @@
+import org.bouncycastle.asn1.ASN1Sequence;
+public class FunctionUse228 {
+public void funcUse() {
+ASN1Sequence asn1sequence = new ASN1Sequence();
+asn1sequence.asn1Equals(null);
+}
+}

@@ -1,0 +1,7 @@
+import org.bouncycastle.asn1.DERIA5String;
+public class FunctionUse507 {
+public void funcUse() {
+DERIA5String deria5string = new DERIA5String();
+deria5string.encode(null);
+}
+}
